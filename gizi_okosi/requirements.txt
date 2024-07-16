@@ -1,0 +1,4 @@
+transformers
+torch
+whisper
+language_tool_python
