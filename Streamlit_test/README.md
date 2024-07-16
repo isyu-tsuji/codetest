@@ -2,6 +2,8 @@
 このプロジェクトは、Streamlitを使用して作成されたWebアプリケーションです。
 
 ### Streamlit_testのフォルダ構成
+
+```
 project-root/
 │
 ├── app/
@@ -10,7 +12,9 @@ project-root/
 ├── requirements.txt
 └── README.md
 
-###インストール
+```
+
+### インストール
 * Dockerを使用して環境を構築します。
 * 必要なパッケージをインストールします。
 
